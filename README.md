@@ -6,6 +6,11 @@ The reasoning is that maximizing food life requires move all food to the cellar 
 
 It is quite a bit of unnecessary real time delay to move between the cellar and the main hut over and over when cooking.
 
+# Requirements
+Requires the Mod Loader found here:
+
+https://www.nexusmods.com/cardsurvivaltropicalisland/mods/23
+
 # Cellar Stasis
 Note that with this mod, any coolers placed in a cellar will never spoil.
 
